@@ -1,0 +1,26 @@
+[
+  {
+    "id": "user-guide",
+    "title": "User Guide",
+    "description": "Create and configure processes, keys, parties, documents and dictionaries, and work with transactions.",
+    "order": 1
+  },
+  {
+    "id": "ai-agents",
+    "title": "AI Agents",
+    "description": "What each AI agent does and how to turn agents on, configure them and set their order.",
+    "order": 2
+  },
+  {
+    "id": "preprocessing-agents",
+    "title": "Preprocessing Agents",
+    "description": "Split, merge and pair incoming files before extraction.",
+    "order": 3
+  },
+  {
+    "id": "troubleshooting",
+    "title": "Troubleshooting Guide",
+    "description": "Fixes for failed batches, missing keys, blank batches and 400 errors.",
+    "order": 4
+  }
+]
